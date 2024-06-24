@@ -1,10 +1,5 @@
 <h1> 👋 Hi, I'm Josef! <br/>Cybersecurity Professional</a>, Mechanical Engineer</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/Josef314314/DirectHomeLab) </b>
-
 <h2>👨‍💻 Cybersecurity Projects (via Google Cybersecurity Course):</h2>
 
 - <b>Python (Python3 in Jupyter notebook)</b>
